@@ -1,0 +1,31 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.home_box{
+    height: 90vh;
+    width: 100%;
+    background-color: #000;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.instruction_box{
+    height: 50%;
+    width: 70%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.quiz_link_start_back_box{
+  height: 10vh;
+  width: 100%;  
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+
+}

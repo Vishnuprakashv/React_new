@@ -1,0 +1,64 @@
+{
+  "admin": [
+    {
+      "id": "ae2a",
+      "first_name": "PIYUSH",
+      "last_name": "DIWAKAR",
+      "Identity_number": "001001"
+    },
+    {
+      "id": "4ab6",
+      "first_name": "VISHNU",
+      "last_name": "PRAKASH",
+      "Identity_number": "0505005"
+    },
+    {
+      "id": "6b2d",
+      "first_name": "MANISH",
+      "last_name": "KUMAR",
+      "Identity_number": "4004004"
+    }
+  ],
+  "users": [
+    {
+      "id": "4160",
+      "email": "prakashvishnuabc@gmail.com",
+      "password": "YWJj"
+    }
+  ],
+  "questions": [
+    {
+      "id": "1aa1",
+      "question": "What is your name",
+      "option": {
+        "A": "Piyush",
+        "B": "Manish",
+        "C": "Vishnu",
+        "D": "No"
+      },
+      "answer": "C"
+    },
+    {
+      "id": "be2b",
+      "question": "Where are you from?",
+      "option": {
+        "A": "Tamilnadu",
+        "B": "Karnataka",
+        "C": "Bihar",
+        "D": "Uttarpradesh"
+      },
+      "answer": "C"
+    },
+    {
+      "id": "ed99",
+      "question": "What are you doing?",
+      "option": {
+        "A": "Nothing",
+        "B": "Work",
+        "C": "Watch movie",
+        "D": "walking"
+      },
+      "answer": "B"
+    }
+  ]
+}
